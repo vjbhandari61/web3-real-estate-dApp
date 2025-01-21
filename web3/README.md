@@ -11,6 +11,10 @@ This is a smart contract for managing real estate properties on the Ethereum blo
 - [Events](#events)
 - [Errors](#errors)
 
+
+![Flow Of Contracts](./assets/image.webp)
+
+
 ## Features
 
 - **Property Registration**: Users can register properties with details such as title, description, category, address, and price.
