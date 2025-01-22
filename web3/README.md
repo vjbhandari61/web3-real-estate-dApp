@@ -12,7 +12,7 @@ This is a smart contract for managing real estate properties on the Ethereum blo
 - [Errors](#errors)
 
 
-![Flow Of Contracts](./assets/image.webp)
+![Flow Of Contracts](./assets/image.webp) 
 
 
 ## Features
